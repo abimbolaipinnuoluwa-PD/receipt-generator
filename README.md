@@ -1,2 +1,15 @@
 # receipt-generator
-A grocery receipt generating checkout sytem for a customer using javascript, to store information about an item, calculate the cost after tax and print an friendly message for the customer.
+
+using JavaScript to to build a grocery receipt generating checkout system for a customer, which store information about an item, calculate the cost after tax and print an friendly message for the customer.
+
+A week 6 assignment.
+
+Folder Structure
+
+receipt-generator/
+|── src
+│   └── js
+|    |__ script.js
+├── README.md
+
+```
